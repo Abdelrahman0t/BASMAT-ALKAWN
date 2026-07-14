@@ -47,19 +47,19 @@ window.translations = {
         'listings.card1.price': 'SAR 15,000,000',
         'listings.card1.meta': '6 BR · 5 BA · 750 sqm',
         'listings.card1.location': 'Al-Hada, Riyadh',
-        'listings.card1.image': 'https://lh3.googleusercontent.com/aida-public/AB6AXuBmr4ITHChy6fC4Kl0_r-MxMJ_oExx9-sSo-bi0UhhNDCvtwaWAM8SR6L-uUN_tr7-6J2936MiWyawU9ezqw72-xpIA2_VkSb3fkuoJJBmxHEkbv7pNYd_2VbtovZTG4iFz_Hlp7qZBgWnrlzIGjVx9IUIWIcbkAFHLOQTKSCfFEsBvXF8SmU3I6iVUq0MgTCXGW3ygUSlJKprV1NSg_-bGz1UksUqWMWH4tctdrQzYpANyzBp6IqC_6Fx33a9X5YpOBvEnoDEcGQ',
+        'listings.card1.image': 'fifth_vila.png',
 
         'listings.card2.title': 'Modern Penthouse',
         'listings.card2.price': 'SAR 8,500,000',
         'listings.card2.meta': '3 BR · 3 BA · 320 sqm',
         'listings.card2.location': 'KAFD, Riyadh',
-        'listings.card2.image': 'https://lh3.googleusercontent.com/aida-public/AB6AXuBnf-ceFTZmCyTnRA_D0Qm6JWiPUVk9jA4SWuNXhjzIsxL3sh3CtsMHuiqF_Sjixxxuyt_cIWyM-2Kn35l5UQ9-khO2BnpRu0vB6YhYnu-EMXxMynWCU0CNm_if3ekDZELPqGJsHRY3noZuqIWp5fm-uDridSu61wnmaYnqXzZDx5jMoGqb2KkkXLxxOngTzsUSMcuae59k48b6TIlVEgsBy9g1puArR5Pq9jCBnTUIlluNpV2GwLvaEWGmA0ShuJBNBnSqal3zBw',
+        'listings.card2.image': 'second_vila.png',
 
         'listings.card3.title': 'Luxury Compound',
         'listings.card3.price': 'SAR 22,000,000',
         'listings.card3.meta': '8 BR · 9 BA · 1200 sqm',
         'listings.card3.location': 'Al-Nada, Riyadh',
-        'listings.card3.image': 'https://lh3.googleusercontent.com/aida-public/AB6AXuCxoUWPF1eEv0dWYwtdrBUtpzIP2aCf1GVkMCVDKkPwrG_99iCn1m4CmGPdehiFX1UytOVX35E0WSdLVOHw5EEPuku7fytEOVO8fdeU0cfFM8JIONGSF4xuJzp6DkJ91Qxt38jGBPHrJQFZEKa3tFKLXNNYDYyNLuXQIzYKvtC_AJcIqtJV3AJG-hbij-C5MJNWfTpbJDUmWfApyl0dxK1gNIHOHfKXN5jRDpL0oK3G1Vz-RpL72_KlHJUaVjdI0KYVi-2eEibVcA',
+        'listings.card3.image': 'fourth.png',
 
         // Testimonials
         'testimonials.label': 'THE DIALOGUE',
@@ -101,7 +101,7 @@ window.translations = {
         'agent.p1': "With an unwavering eye for architectural integrity, our agents are dedicated to curating Al Munsiyah's and Riyadh's most exclusive properties.",
         'agent.p2': "Our approach transcends mere brokerage, focusing on the preservation of luxury and the elevation of the Kingdom's residential landscape.",
         'agent.cta': 'View Credentials',
-        'agent.image': 'screen33.png',
+        'agent.image': 'first_vila.png',
 
         // Footer Section
         'footer.headline': "LET'S START THE DIALOGUE",
@@ -159,7 +159,7 @@ window.translations = {
         'about.p2': 'يخضع كل عقار في محفظتنا لتدقيق دقيق في النزاهة المعمارية والقيمة طويلة الأمد، لضمان حصول عملائنا على أكثر من منزل — بل على جزء من مستقبل المملكة.',
         'about.credentialsLabel': 'الاعتمادات والتراخيص',
         'about.credentials': 'ترخيص الهيئة العامة للعقار: 1200027201 | جودة سكنية استثنائية',
-        'about.image': 'about_riyadh_district.png',
+        'about.image': 'aboutbasma.jpg',
 
         // Listings Section
         'listings.subtitle': 'محفظة مختارة',
@@ -171,19 +171,19 @@ window.translations = {
         'listings.card1.price': '15,000,000 ر.س',
         'listings.card1.meta': '6 غرف · 5 حمامات · 750 م²',
         'listings.card1.location': 'الهدا، الرياض',
-        'listings.card1.image': 'https://lh3.googleusercontent.com/aida-public/AB6AXuBmr4ITHChy6fC4Kl0_r-MxMJ_oExx9-sSo-bi0UhhNDCvtwaWAM8SR6L-uUN_tr7-6J2936MiWyawU9ezqw72-xpIA2_VkSb3fkuoJJBmxHEkbv7pNYd_2VbtovZTG4iFz_Hlp7qZBgWnrlzIGjVx9IUIWIcbkAFHLOQTKSCfFEsBvXF8SmU3I6iVUq0MgTCXGW3ygUSlJKprV1NSg_-bGz1UksUqWMWH4tctdrQzYpANyzBp6IqC_6Fx33a9X5YpOBvEnoDEcGQ',
+        'listings.card1.image': 'fifth_vila.png',
 
         'listings.card2.title': 'بنتهاوس عصري',
         'listings.card2.price': '8,500,000 ر.س',
         'listings.card2.meta': '3 غرف · 3 حمامات · 320 م²',
         'listings.card2.location': 'مركز الملك عبدالله المالي، الرياض',
-        'listings.card2.image': 'https://lh3.googleusercontent.com/aida-public/AB6AXuBnf-ceFTZmCyTnRA_D0Qm6JWiPUVk9jA4SWuNXhjzIsxL3sh3CtsMHuiqF_Sjixxxuyt_cIWyM-2Kn35l5UQ9-khO2BnpRu0vB6YhYnu-EMXxMynWCU0CNm_if3ekDZELPqGJsHRY3noZuqIWp5fm-uDridSu61wnmaYnqXzZDx5jMoGqb2KkkXLxxOngTzsUSMcuae59k48b6TIlVEgsBy9g1puArR5Pq9jCBnTUIlluNpV2GwLvaEWGmA0ShuJBNBnSqal3zBw',
+        'listings.card2.image': 'second_vila.png',
 
         'listings.card3.title': 'مجمع فاخر',
         'listings.card3.price': '22,000,000 ر.س',
         'listings.card3.meta': '8 غرف · 9 حمامات · 1200 م²',
         'listings.card3.location': 'الندى، الرياض',
-        'listings.card3.image': 'https://lh3.googleusercontent.com/aida-public/AB6AXuCxoUWPF1eEv0dWYwtdrBUtpzIP2aCf1GVkMCVDKkPwrG_99iCn1m4CmGPdehiFX1UytOVX35E0WSdLVOHw5EEPuku7fytEOVO8fdeU0cfFM8JIONGSF4xuJzp6DkJ91Qxt38jGBPHrJQFZEKa3tFKLXNNYDYyNLuXQIzYKvtC_AJcIqtJV3AJG-hbij-C5MJNWfTpbJDUmWfApyl0dxK1gNIHOHfKXN5jRDpL0oK3G1Vz-RpL72_KlHJUaVjdI0KYVi-2eEibVcA',
+        'listings.card3.image': 'fourth.png',
 
         // Testimonials
         'testimonials.label': 'الحوار',
@@ -225,7 +225,7 @@ window.translations = {
         'agent.p1': 'بعين خبيرة في العقارات الفاخرة، ننسق أرقى العروض والفرص الحصرية للمستثمرين والمشترين بالمنطقة.',
         'agent.p2': 'يتجاوز نهجنا مجرد الوساطة، مركزاً على تقديم أفضل سبل العيش الراقي وتسهيل المعاملات العقارية بموثوقية تامة.',
         'agent.cta': 'عرض الاعتمادات',
-        'agent.image': 'screen33.png',
+        'agent.image': 'first_vila.png',
 
         // Footer Section
         'footer.headline': 'لنبدأ الحوار',

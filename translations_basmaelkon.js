@@ -157,7 +157,7 @@ window.translations = {
         'about.p2': 'يخضع كل عقار في محفظتنا لتدقيق دقيق في النزاهة المعمارية والقيمة طويلة الأمد، لضمان حصول عملائنا على أكثر من منزل — بل على جزء من مستقبل المملكة.',
         'about.credentialsLabel': 'الاعتمادات والتراخيص',
         'about.credentials': 'ترخيص الهيئة العامة للعقار/فال: 120000YYYY | أكثر من 2 مليار ريال من المعاملات المُدارة',
-        'about.image': 'about_riyadh_district.png',
+        'about.image': 'aboutbasma.jpg',
 
         // Listings Section
         'listings.subtitle': 'محفظة مختارة',
