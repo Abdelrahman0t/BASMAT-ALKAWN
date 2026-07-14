@@ -35,7 +35,7 @@ window.translations = {
         'about.p2': "Every property in our portfolio is vetted for architectural integrity and long-term value, ensuring that our clients acquire more than just a home—they acquire a piece of the Kingdom's future.",
         'about.credentialsLabel': 'Credentials & Licensing',
         'about.credentials': 'REGA License: 1200027201 | SAR 2B+ Managed Transactions',
-        'about.image': 'about_riyadh_district.png',
+        'about.image': 'aboutbasma.jpg',
 
         // Listings Section
         'listings.subtitle': 'Selected Portfolio',

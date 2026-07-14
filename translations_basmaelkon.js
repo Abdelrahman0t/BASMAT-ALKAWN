@@ -34,14 +34,14 @@ window.translations = {
         'about.p2': "Every property in our portfolio is vetted for architectural integrity and long-term value, ensuring that our clients acquire more than just a home—they acquire a piece of the Kingdom's future.",
         'about.credentialsLabel': 'Credentials & Licensing',
         'about.credentials': 'REGA/Fal License: 120000YYYY | SAR 2B+ Managed Transactions',
-        'about.image': 'stitch_boutique_riyadh_real_estate/about_riyadh_district.png',
+        'about.image': 'aboutbasma.jpg',
 
         // Listings Section
         'listings.subtitle': 'Selected Portfolio',
         'listings.title': 'A curated collection of exceptional properties across Riyadh.',
         'listings.ctaHeadline': 'Discover the full collection',
         'listings.ctaBtn': 'VIEW PORTFOLIO',
-        
+
         'listings.card1.title': 'Contemporary Villa',
         'listings.card1.price': 'SAR 15,000,000',
         'listings.card1.meta': '6 BR · 5 BA · 750 sqm',
@@ -83,7 +83,7 @@ window.translations = {
         'location.district3': 'Hittin',
         'location.district4': 'KAFD',
         'location.district4full': 'King Abdullah Financial District',
-        
+
         // Map configurations
         'location.mapCenter': JSON.stringify({ lat: 24.792, lng: 46.618, zoom: 11 }),
         'location.districtsConfig': JSON.stringify([
@@ -100,7 +100,7 @@ window.translations = {
         'agent.p1': "With an unwavering eye for architectural integrity, Basma has spent over a decade curating Riyadh's most exclusive off-market properties.",
         'agent.p2': "Her approach transcends mere brokerage, focusing on the preservation of luxury and the elevation of the Kingdom's residential landscape.",
         'agent.cta': 'View Credentials',
-        'agent.image': 'stitch_boutique_riyadh_real_estate/screen33.png',
+        'agent.image': 'screen33.png',
 
         // Footer Section
         'footer.headline': "LET'S START THE DIALOGUE",
@@ -157,14 +157,14 @@ window.translations = {
         'about.p2': 'يخضع كل عقار في محفظتنا لتدقيق دقيق في النزاهة المعمارية والقيمة طويلة الأمد، لضمان حصول عملائنا على أكثر من منزل — بل على جزء من مستقبل المملكة.',
         'about.credentialsLabel': 'الاعتمادات والتراخيص',
         'about.credentials': 'ترخيص الهيئة العامة للعقار/فال: 120000YYYY | أكثر من 2 مليار ريال من المعاملات المُدارة',
-        'about.image': 'stitch_boutique_riyadh_real_estate/about_riyadh_district.png',
+        'about.image': 'about_riyadh_district.png',
 
         // Listings Section
         'listings.subtitle': 'محفظة مختارة',
         'listings.title': 'مجموعة منتقاة من العقارات الاستثنائية في أنحاء الرياض.',
         'listings.ctaHeadline': 'اكتشف المجموعة الكاملة',
         'listings.ctaBtn': 'عرض المحفظة',
-        
+
         'listings.card1.title': 'فيلا معاصرة',
         'listings.card1.price': '15,000,000 ر.س',
         'listings.card1.meta': '6 غرف · 5 حمامات · 750 م²',
@@ -206,7 +206,7 @@ window.translations = {
         'location.district3': 'حطين',
         'location.district4': 'مركز الملك عبدالله المالي',
         'location.district4full': 'مركز الملك عبدالله المالي',
-        
+
         // Map configurations
         'location.mapCenter': JSON.stringify({ lat: 24.792, lng: 46.618, zoom: 11 }),
         'location.districtsConfig': JSON.stringify([
@@ -223,7 +223,7 @@ window.translations = {
         'agent.p1': 'بعين ثابتة على النزاهة المعمارية، أمضت بسمة أكثر من عقد في تنسيق أرقى العقارات خارج السوق في الرياض.',
         'agent.p2': 'يتجاوز نهجها مجرد الوساطة، مركزة على الحفاظ على الرفاهية والارتقاء بالمشهد السكني في المملكة.',
         'agent.cta': 'عرض الاعتمادات',
-        'agent.image': 'stitch_boutique_riyadh_real_estate/screen33.png',
+        'agent.image': 'screen33.png',
 
         // Footer Section
         'footer.headline': 'لنبدأ الحوار',
